@@ -1,7 +1,7 @@
 +++
 title = "this is a trial block."
 [[blocks]]
-content = "I am the body copy block. "
+content = "I am the body copy block.\n\nThis is how Forestry handles the body copy block.\n\n### This\n\nis **how** it works. \n\n![](/uploads/2018/04/20/logs-splash.png)"
 template = "body-copy"
 [[blocks]]
 background_image = ""
