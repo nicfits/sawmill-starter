@@ -12,5 +12,8 @@ heading = "The hero convinces due to size and meaning"
 size = "Big"
 subheading = "From this I feel compelled"
 template = "hero-section"
+[[blocks]]
+content = "1. Here's a thing\n2. Here's another thing"
+template = "body-copy"
 
 +++
